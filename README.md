@@ -7,6 +7,7 @@ Skripte und Datensätze für Biologie-Lektionen am Gymnasium
 #### Allgemeine Funktionen
 
 - `Notenberechnung`: Funktionen zur Berechnung und Darstellung von Noten
+- `Punkterechner`: Funktion, um aus Punkten die Note herzuleiten
 
 <br>
 
