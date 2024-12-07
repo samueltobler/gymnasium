@@ -1,5 +1,5 @@
 source(file = "Notenberechnung/Notenrechner.R")
+source(file = "Notenberechnung/Punkterechner.R")
 
-Notenrechner(9.5, 17)
+Notenrechner()
 
-Punkterechner(3.79, 17)
