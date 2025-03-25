@@ -12,6 +12,7 @@ Skripte und Datensätze für Biologie-Lektionen am Gymnasium
 - `Notenvisualisierung`: Darstellung der Notenverteilung
 - `Punkterechner`: Funktion, um aus Punkten die Note herzuleiten
 - `Anwendungsskript`: Zur Benutzung dieser Funktionen
+- `Notentabelle`: Zur Berechnung von Noten bei einer nicht-linearen Notengebung (als Dokument und Shiny Applikation)
 
 **Funktionen**
 
