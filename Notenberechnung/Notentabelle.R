@@ -7,7 +7,7 @@ notenrechner_split <- function(p, plim) {
   return(n)
 }
 
-notenrechner_split <- function(p, plim) {
+notenrechner_split_vec <- function(p, plim) {
   n <- numeric(length(p))       
   
   for(i in seq_along(p)) {
