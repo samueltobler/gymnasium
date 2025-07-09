@@ -11,7 +11,7 @@ library(rsvg)
 library(svglite)
 
 # Define paths
-excel_file <- "Data/01_Ökologie/Flaschengarten_Miro.xlsx"  # Excel file path
+excel_file <- "Data/02_Photosynthese/PS_Miro.xlsx"  # Excel file path
 qr_folder <- "Data/Export/qr_codes"  # Folder with QR codes (SVG)
 pdf_folder <- "Data/Export/pdf_outputs"  # Output folder for PDFs
 
