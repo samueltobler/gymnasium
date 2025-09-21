@@ -1,0 +1,13 @@
+name: similarity
+title: similarity
+username: stobler
+account: stobler
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15516960
+bundleId: 10933749
+url: https://stobler.shinyapps.io/similarity/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: link_to_qr.R|qrlink_to_pdf.R|similarity.R|ASTA
